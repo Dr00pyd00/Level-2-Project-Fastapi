@@ -52,6 +52,23 @@ fastapi dev
 
 ------------------------------------------------------------
 
+## Routes:
+
+### Users:
+- POST Create user 
+- POST Login : give access token
+
+### Posts:
+- POST Create a post
+- GET get all posts ( possible filter 'liked' / 'owner' )
+- Get get one post by ID
+- PUT update a post by ID
+- DELETE delete a post by ID
+
+### Likes:
+- POST toogle like button: like or unlike
+
+  
 ## Technos:
 - FastAPI
 - SQLAlchemy + Alembic
