@@ -1,0 +1,3 @@
+2025-09-18 14:07:12,804 [WARNING] AppLogger - User tried to delete a Post but Post not exist
+2025-09-18 16:44:02,012 [INFO] AppLogger - Token created for User ID<1>.
+2025-09-18 17:38:41,356 [INFO] AppLogger - User created a new post

@@ -1,0 +1,14 @@
+
+# environnements:
+venv/
+.env
+
+# caches:
+__pycache__/
+*.pyc
+*.pyo
+
+
+logs.json
+logs.logs
+
